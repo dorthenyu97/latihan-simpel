@@ -1,0 +1,5 @@
+pkg I git
+pkg I python
+pkg I php
+pkg I nano
+pkg I figlet
